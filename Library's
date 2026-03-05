@@ -1,8 +1,9 @@
  Servo movement  Library
 Lock and unlock  
+servo should perform a 90 degree turn 
  
  RFID module reader  Library
 RFID Iud save
 
  LCD screen display library 
-“Locked” “unlocked”
+“Locked” “unlocked” display
