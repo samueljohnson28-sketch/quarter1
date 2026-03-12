@@ -1,0 +1,13 @@
+RFID Cardinput 
+                 code 1
+UID save 
+
+Servo input (lock unlock)
+                           code 2
+RFID card reader
+
+
+LCD screen state 
+                  code 3
+RFID reader
+
